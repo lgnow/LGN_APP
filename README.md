@@ -6,3 +6,4 @@ Fans will be updated with reliable news in real-time and be able to join discuss
 ### Support or Contact
 
 Having trouble with Our App? Send us an [email](ladygaganownet@gmail.com) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
